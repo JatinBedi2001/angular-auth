@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "id": "JatinBedi",
+      "name": "Jatin",
+      "password": "Jatin@2001",
+      "email": "jatinb@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Jatin",
+      "name": "JB",
+      "password": "Bedi@2001",
+      "email": "jatinx@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "Johny",
+      "name": "JohnB",
+      "password": "John@2001",
+      "email": "john@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    }
+  ]
+}
